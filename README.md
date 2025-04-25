@@ -1,4 +1,4 @@
-# JAX talk 2025
+# JAX and NNX Tour — 2025
 
 Intro to JAX and NNX with profiling and sharding.
 
